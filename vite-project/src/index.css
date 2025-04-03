@@ -1,0 +1,93 @@
+.header{
+  background-color: white;
+  justify-content: space-between;
+  display: flex;
+  
+}
+body{
+  background-color: azure;
+}
+.navbar{
+  background-color: white;
+  color: navy;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 1em;
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+  cursor: pointer;
+
+
+}
+.navbar:hover{
+  background-color: #f0f0f0;
+}
+.solve{
+  font-size: xx-large;
+  font-weight: bold;
+  margin: 300px;
+}
+.lorem{
+  font-size: medium;
+  color: lightblue;
+  font-style: cursive;
+
+}
+.btn{
+  color: white;
+  background-color: navy;
+  padding: 15px;
+  cursor: pointer
+}
+.btn:hover{
+  color: antiquewhite;
+}
+.chap{
+  color: gray;
+  font-size: small;
+
+}
+.now{
+  color: navy;
+}
+.pic{
+  width: 500px;
+  height: 400px;
+  box-shadow: 8px 8px 8px 0px rgba(0,0,0,0.3);
+}
+.novel{
+  justify-content: space-between;
+  
+
+}
+.body{
+  justify-content: space-between;
+  
+
+}
+.novel{
+  display: flex;
+  justify-content: space-between;
+}
+.pic{
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+  margin-left: 20px;
+  margin-right: 50px;
+
+}
+.the{
+  font-size: 20px;
+  justify-content: space-between;
+  display: flex;
+  
+  
+  
+}
+
+
+
+
+
